@@ -34,4 +34,4 @@ Crack the password
 
 ### Exit
 
-- ````sudo airmon-ng stop <wlan0mon> && service NetworkManager restart```
+- ```sudo airmon-ng stop <wlan0mon> && service NetworkManager restart```
